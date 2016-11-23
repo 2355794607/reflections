@@ -27,4 +27,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I tend to work directly in master more often when I'm working on my own. When working with a large group, though, using branches to keep track of which changes have already been reviewed and approved is extremely helpfull.
